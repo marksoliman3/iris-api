@@ -1,4 +1,10 @@
+# Environment variables and secrets
 .env
-conifg.py
+
+# Configuration file
+config.py
+
+# Specific scripts and files to exclude
 first_api.py
 module_4.md
+iris_api.py
